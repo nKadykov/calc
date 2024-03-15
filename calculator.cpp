@@ -85,4 +85,5 @@ void Calculator::slotButtonClicked() {
         }
     }
     displaystring->setText(text);
+
 }
